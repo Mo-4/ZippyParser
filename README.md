@@ -1,5 +1,13 @@
 # zippyshare_url_parser
 
+Creator: GrowAsguard (https://github.com/GrowAsguard)
+Edit: Mo-4 (https://github.com/Mo-4)
+
+All credits & rights to GrowAsguard for initiallly creating the script.
+I tried to reach him before working on this, but couldn't find any way to contact him.
+I only edited it as it was not updated since 2021 and JDownloader was broken at the time of the update,
+So I updated the code to match Zippy's code.
+
 **Description:-**
 
 Parses ZippyShare URLs to get direct links. Written in Python.
@@ -36,8 +44,8 @@ Other needed packages which are already installed with Python 3 are:-
   
 **Usage:-**
 
-1) Create a txt file. Add one ZippyShare link on each line. Add as many links as you want.
-2) Run the script by double clicking it or run it in a terminal.
+1) Create a txt file (with any name). Add one ZippyShare link on each line. Add as many links as you want.
+2) Run the script by double clicking it or run it in a terminal (zippy_parser.py).
 3) In the opening window, select the txt file where your ZippyShare links are stored.
 4) In the next opening window, select path and name for the txt file where the parsed links will be stored.
 5) The script will now run. Parsed links will be saved to the txt file and will also be displayed in the terminal.
@@ -49,6 +57,10 @@ Other needed packages which are already installed with Python 3 are:-
 - The script will run into errors when the file is removed from ZippyShare servers (a.k.a. File Not Found).
 
 **Chaneglog:-**
+
+*v1.2*
+adjusted to new web code
+7th March 2023
 
 *v1.1*
 adjusted to new webpage code
