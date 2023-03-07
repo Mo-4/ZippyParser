@@ -38,10 +38,7 @@ def zippy_parser(url):
 
     file_code = url.split('/')[4]
 
-    #unique_code = (a//3) + (a%b)
-    #unique_code = b+18
     unique_code = (b+18)
-    #if unique_code == 0: unique_code = 18
 
     file_name0 = line_list[-5]
     file_name1 = file_name0.split('/')[-1]
