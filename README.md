@@ -1,4 +1,4 @@
-# zippyshare_url_parser
+# zippyshare_parser
 
 Creator: GrowAsguard (https://github.com/GrowAsguard)
 Edit: Mo-4 (https://github.com/Mo-4)
@@ -7,6 +7,7 @@ All credits & rights to GrowAsguard for initiallly creating the script.
 I tried to reach him before working on this, but couldn't find any way to contact him.
 I only edited it as it was not updated since 2021 and JDownloader was broken at the time of the update,
 So I updated the code to match Zippy's code.
+Note: Zippy sometimes change their formula for the file's unique code, this script will not work if they do, unless the script is updated accordingly.
 
 **Description:-**
 
